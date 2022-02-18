@@ -30,7 +30,7 @@ Bot Owner Only
 ABOUT = """
 ➥ Name :  Auto Filter V3
     
-➥ Creator : @LMovies_HD
+➥ Creator : [shizukaa04](https://t.me/shizukaa04)
 
 ➥ Language : Python3
 

@@ -28,9 +28,7 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  [ritikaaaa](https://t.me/ritikaaaa_bot)
-    
-➥ Creator : [keerthy_4](https://t.me/keerthy_4)
-
+➥ Name :  [ritikaaaa](https://t.me/ritikaaaa_bot) 
+➥ Creator : [KEERTHY SURESH](https://t.me/keerthy_4)
 ➥ Updates : [Click Me](https://t.me/LMovies_HD)
 """

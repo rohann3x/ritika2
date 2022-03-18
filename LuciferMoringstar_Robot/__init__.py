@@ -28,13 +28,9 @@ Bot Owner Only
 """
 
 ABOUT = """
-➥ Name :  Auto Filter V3
+➥ Name :  [ritikaaaa](https://t.me/ritikaaaa_bot)
     
-➥ Creator : [shizukaa04](https://t.me/shizukaa04)
-
-➥ Language : Python3
-
-➥ Library : Pyrogram Asyncio 1.13.0
+➥ Creator : [keerthy_4](https://t.me/keerthy_4)
 
 ➥ Updates : [Click Me](https://t.me/LMovies_HD)
 """
